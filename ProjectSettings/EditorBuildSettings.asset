@@ -11,3 +11,5 @@ EditorBuildSettings:
     path: Assets/Game.unity
   - enabled: 1
     path: Assets/GameEnd.unity
+  - enabled: 1
+    path: Assets/GameLose.unity

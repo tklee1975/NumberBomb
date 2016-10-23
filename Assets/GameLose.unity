@@ -132,7 +132,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.990213, g: 1, b: 0.3344828, a: 1}
+  m_Color: {r: 1, g: 0.3344828, b: 0.3344828, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -152,7 +152,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Congradulation!! You unlock the bomb safely!
+  m_Text: Oopp!!! The bomb is activated!!
 --- !u!222 &415455213
 CanvasRenderer:
   m_ObjectHideFlags: 0
